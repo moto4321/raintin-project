@@ -1,0 +1,27 @@
+{
+  "name": "raintin_proto",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "mysql": "^2.18.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moto4321/raintin-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moto4321/raintin-project/issues"
+  },
+  "homepage": "https://github.com/moto4321/raintin-project#readme",
+  "description": ""
+}
